@@ -1,11 +1,9 @@
 
 # whisper-base.en Finetune for Skyrim Terminology
 
-This is a CTranslate2-format finetune of whisper-base.en that improves transcription of fantasy names and terms from Skyrim while maintaining general English accuracy.
+This is a finetune of whisper-base.en that improves transcription of fantasy names and terms from Skyrim while maintaining general English accuracy.
 
-Use as a drop-in replacement for [this base model](https://huggingface.co/guillaumekln/faster-whisper-base.en) in faster-whisper.
-
-> Also available on huggingface [here](https://huggingface.co/Numbat/skyrim-whisper-base.en) and [here](https://huggingface.co/Numbat/faster-skyrim-whisper-base.en) in CT2 fromat
+> Also available on huggingface [here](https://huggingface.co/Numbat/skyrim-whisper-base.en) and [here](https://huggingface.co/Numbat/faster-skyrim-whisper-base.en) in CT2 fromat (For faster-whisper)
 
 ## Performance
 
@@ -15,7 +13,7 @@ Use as a drop-in replacement for [this base model](https://huggingface.co/guilla
 ## Training Data
 
 - 5,344 Skyrim voicelines (average ~7s each)
-- Voicelines selected to contain target fantasy words/phrases
+- Voicelines selected to contain target skyrim words, names and phrases
 
 ## Finetuning Approach
 
