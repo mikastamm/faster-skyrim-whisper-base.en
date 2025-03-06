@@ -1,5 +1,5 @@
 
-# Whisper-base.en Finetune for Skyrim Terminology
+# whisper-base.en Finetune for Skyrim Terminology
 
 This is a CTranslate2-format finetune of whisper-base.en that improves transcription of fantasy names and terms from Skyrim while maintaining general English accuracy.
 
