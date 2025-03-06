@@ -14,7 +14,6 @@ Use as a drop-in replacement for [this base model](https://huggingface.co/guilla
 
 ## Training Data
 
-- 85% Skyrim voicelines, 15% Common Voice English
 - 5,344 Skyrim voicelines (average ~7s each)
 - Voicelines selected to contain target fantasy words/phrases
 
