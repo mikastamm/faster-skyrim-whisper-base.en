@@ -23,7 +23,7 @@ Use as a drop-in replacement for [this base model](https://huggingface.co/guilla
 Initial attempts decreased general English performance. Solution: freezing 3 decoder layers plus the encoder maintained Common Voice accuracy while significantly improving Skyrim term transcription.
 
 
-# Cherry-Picked Results from Eval
+# Cherry-Picked Results, showcasing the good and the bad
 
 | Source | Line |
 | --- | --- |
