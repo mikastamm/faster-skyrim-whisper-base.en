@@ -5,6 +5,8 @@ This is a CTranslate2-format finetune of whisper-base.en that improves transcrip
 
 Use as a drop-in replacement for [this base model](https://huggingface.co/guillaumekln/faster-whisper-base.en) in faster-whisper.
 
+> Also available on huggingface [here](https://huggingface.co/Numbat/skyrim-whisper-base.en) and [here](https://huggingface.co/Numbat/faster-skyrim-whisper-base.en) in CT2 fromat
+
 ## Performance
 
 - **Common Voice 11 test set WER**: 27.17 (Base model: 26.99)
